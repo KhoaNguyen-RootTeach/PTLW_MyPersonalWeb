@@ -1,0 +1,26 @@
+/* #left {
+    position: absolute;
+    right: 100%;
+    top: 0;
+    display: block;
+    height: 125px;
+    width: 125px;
+    background: url(TRbanner.gif) no-repeat;
+    text-indent: -999em;
+    text-decoration: none;
+} */
+body{
+  background-color: lightblue;
+}
+#left{
+  float: right;
+}
+h1{
+  font-family: 'Great Vibes', cursive;
+  border: 5px solid white;
+  font-size: 100px;
+}
+td p{
+  color: #F71C0A;
+  font-family: 'Homemade Apple', cursive;
+}

@@ -1,0 +1,10 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #BE75F7;
+}
+h1{
+  font-family: 'Great Vibes', cursive;
+  border: 5px solid white;
+  font-size: 100px;
+}

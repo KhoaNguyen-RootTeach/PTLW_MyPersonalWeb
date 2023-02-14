@@ -1,0 +1,16 @@
+#left{
+  float: right;
+}
+body{
+  background-color: rgb(48, 246, 137);
+}
+
+h1{
+  font-family: 'Great Vibes', cursive;
+  border: 5px solid white;
+  font-size: 100px;
+}
+td p{
+  color: #F71C0A;
+  font-family: 'Homemade Apple', cursive;
+}
